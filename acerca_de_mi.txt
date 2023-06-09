@@ -1,1 +1,3 @@
-soy homer
+primera practica
+usando git
+comandos

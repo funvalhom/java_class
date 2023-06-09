@@ -1,0 +1,15 @@
+INICIO
+ numerico sueldoBase, cantHorasExtras, sueldoTotal;
+ numerico totalHorasExtras:
+ imprima "ingrese sueldo base";
+ lea sueldo base
+ Imprima "Ingrese cantidad de horas extras trabajadas";
+ lea cantHorasExtras;
+
+ totalHorasExtras= cantHorasExtras*3000;
+
+ sueldoTotal= totalHorasExtras+sueldoBase
+
+ Imprima "El sueldo total del trabajador es: "+sueldoTotal
+
+FINAL
